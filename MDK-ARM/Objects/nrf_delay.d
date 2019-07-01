@@ -1,0 +1,14 @@
+.\objects\nrf_delay.o: ..\nRF_Drivers\3.0.1\hal\nrf_delay.c
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\compiler_abstraction.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\nrf.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\nrf51.h
+.\objects\nrf_delay.o: ..\CMSIS\Include\core_cm0.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\nrf_delay.o: ..\CMSIS\Include\core_cmInstr.h
+.\objects\nrf_delay.o: ..\CMSIS\Include\cmsis_armcc.h
+.\objects\nrf_delay.o: ..\CMSIS\Include\core_cmFunc.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\system_nrf51.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\nrf51_bitfields.h
+.\objects\nrf_delay.o: E:\Keil_v5\ARM\Device\Nordic\nRF51422\Include\nrf51_deprecated.h
+.\objects\nrf_delay.o: ..\nRF_Drivers\3.0.1\hal\nrf_delay.h
